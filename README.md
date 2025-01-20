@@ -1,2 +1,3 @@
-# Library-Management
-Library Management using Spring Boot ( CRUD &amp; Spring Security )
+This project is a comprehensive Library Management System built using Spring Boot. It leverages CRUD operations for managing books, members, and transactions, and integrates Spring Security for robust authentication and authorization. The system provides a user-friendly interface for librarians to efficiently manage library resources and for members to easily access and borrow books.
+
+Feel free to modify it as needed! If you need any more details or have other questions, just let me know.
